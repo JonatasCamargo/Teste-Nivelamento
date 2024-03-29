@@ -64,8 +64,7 @@ def zipar(arqs):
 zipar(['Pasta_do_anexo1','pasta_compactada'])
 
   
-#for linha in leitor_csv:
-     #print(linha)
+
 
 
 
