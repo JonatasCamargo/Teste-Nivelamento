@@ -10,6 +10,8 @@ import wget
 import os
 import shutil
 import zipfile as zipf
+#requests
+#beautiful soup
 
 # Instanciar Opções (para corrigir de "abrir e fechar apagina rapido")
 options = webdriver.ChromeOptions()
